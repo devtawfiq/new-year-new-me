@@ -150,3 +150,59 @@ header{
     background: white;
     color: #F15B22;
 }
+/* Footer Section */
+footer{
+    background: #151414;
+    padding: 100px 0;
+}
+.footer-left{
+    width: 40%;
+    color: white;
+}
+.footer-left h1 {
+	font-size: 45px;
+	color: #fff;
+    font-weight: 600;
+}
+.footer-left p {
+	line-height: 26px;
+	margin-top: 17px;
+}
+.contact-list {
+	margin: 17px 0;
+	margin-bottom: 30px;
+}
+.contact-list li {
+	list-style: none;
+	margin-bottom: 13px;
+}
+.social-icon li {
+	list-style: none;
+	margin-right: 18px;
+}
+.footer-right{
+    width: 30%;
+}
+.space-div{
+    width: 30%;
+}
+.footer-right h3{
+    font-size: 25px;
+    color: #fff;
+    font-weight: 400;
+}
+.footer-right input {
+	display: block;
+	width: 70%;
+	padding: 14px 17px;
+	margin: 25px 0 15px 0;
+	border: 1px solid #ddd;
+	outline: none;
+	border-radius: 5px;
+	background: transparent;
+	color: #fff;
+}
+.footer-right .btn-primary{
+    background: #fff;
+    color: #F15B22;
+}
