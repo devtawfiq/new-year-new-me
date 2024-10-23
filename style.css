@@ -93,3 +93,27 @@ header{
 	line-height: 22px;
 	color: #16D887;
 }
+/* Service Section */
+.service-section{
+    padding: 70px;
+}
+.service-section .primary-title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.service-wrap {
+	justify-content: space-between;
+	padding-top: 30px;
+}
+.service-box{
+    text-align: center;
+}
+.service-box h3 {
+	font-size: 30px;
+	margin: 20px 0 10px 0;
+	color: #151414;
+}
+.service-box p {
+	font-size: 25px;
+	color: #737272;
+}
